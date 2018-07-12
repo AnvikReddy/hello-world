@@ -6,7 +6,7 @@
   <style> 
   .sidebar
   {
-  	background-color:lightblue;
+  	background-color:blue;
     border:5px solid blue;
     width:200px;
     height:1000px;
