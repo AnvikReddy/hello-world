@@ -4,7 +4,7 @@
 <html>
 <head>
   <style> 
-  #sidebar
+  .sidebar
   {
   	background-color:lightblue;
     border:5px solid blue;
@@ -12,10 +12,10 @@
     height:1000px;
     
   }
-</style>
+  </style>
 </head>
 <body>
-<div id="sidebar">
+<div class="sidebar">
   <h3 align="center">This is a heading in a div element</h3>
   <p align="center">This is some text in a div element.</p>
 </div>
