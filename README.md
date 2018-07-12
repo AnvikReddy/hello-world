@@ -2,8 +2,8 @@
 
 <!DOCTYPE html>
 <html>
-<body>
-<style> 
+<head>
+  <style> 
   #sidebar
   {
   	background-color:lightblue;
@@ -13,11 +13,11 @@
     
   }
 </style>
-
-<div id="sidebar" onclick="alert('hi')">
+</head>
+<body>
+<div id="sidebar">
   <h3 align="center">This is a heading in a div element</h3>
   <p align="center">This is some text in a div element.</p>
 </div>
-
 </body>
 </html>
